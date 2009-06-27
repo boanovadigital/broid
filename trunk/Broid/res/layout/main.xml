@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/Broid"
+    />
+<EditText android:text="" android:id="@+id/ValidaText" android:layout_width="fill_parent" android:layout_height="wrap_content"></EditText>
+<Button android:text="Validar" android:id="@+id/ValidaButton" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+<Button android:text="Limpar" android:id="@+id/LimpaButton" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+<Button android:text="Gerar CPF" android:id="@+id/GeraCPFButton" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+<Button android:text="Gerar CNPJ" android:id="@+id/GeraCNPJButton" android:layout_width="fill_parent" android:layout_height="wrap_content"></Button>
+</LinearLayout>

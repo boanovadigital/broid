@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Broid">Digite apenas os números do CPF ou CNPF:</string>
+    <string name="app_name">Broid</string>
+    <string name="eula_title">License/Licença</string>
+    <string name="eula_accept">Accept/Aceito</string>
+    <string name="eula_refuse">Refuse/Recuso</string>
+</resources>
