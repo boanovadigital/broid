@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+O *Broid* é um aplicativo para Android que valida ou gera números de CPF e CNPJ.
+
+Este aplicativo é direcionado para o público brasileiro, principalmente para auxiliar desenvolvedores de software a testarem seus produtos.
+
+*_É proibido qualquer uso ilegal do aplicativo._*
+
+= Details =
+
+Através do *Broid* é possível:
+
+    - validar um número de CPF;
+    - validar um número de CNPJ;
+    - gerar um número aleatório de CPF;
+    - gerar um número aleatório de CNPJ.
