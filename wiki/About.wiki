@@ -12,7 +12,7 @@ Este aplicativo é direcionado para o público brasileiro, principalmente para a
 
 Através do *Broid* é possível:
 
-    - validar um número de CPF;
-    - validar um número de CNPJ;
-    - gerar um número aleatório de CPF;
-    - gerar um número aleatório de CNPJ.
+- validar um número de CPF;
+- validar um número de CNPJ;
+- gerar um número aleatório de CPF;
+- gerar um número aleatório de CNPJ.
